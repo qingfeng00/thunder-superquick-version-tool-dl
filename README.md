@@ -2,6 +2,11 @@
 
 ---
 
+#### thunder 极速版 vip （win7
+
+> [ThunderSpeed1.0.34.360.zip](https://github.com/dzet-tool-for-quick/thunder-superquick-version-tool-dl/raw/master/file/ThunderSpeed1.0.34.360.zip)
+
+---
 
 #### thunder 极速版 vip （win10
 
